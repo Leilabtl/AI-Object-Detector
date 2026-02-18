@@ -2,7 +2,8 @@
 
 # Link to access my model
 👉 **[[Here]](https://teachablemachine.withgoogle.com/models/ZtpfRfZWP/)**
-```
+
+
 Below is the screenshot of recognizing the pen:
 
 ![image](SC1.png)
