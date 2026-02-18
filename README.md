@@ -1,8 +1,6 @@
-# Attempt-2
+# AI-Object-Detector
 
-Link to access my model
-
-You can test this model yourself using your own webcam. No setup required:
+# Link to access my model
 👉 **[[Here]](https://teachablemachine.withgoogle.com/models/ZtpfRfZWP/)**
 ```
 Below is the screenshot of recognizing the pen:
