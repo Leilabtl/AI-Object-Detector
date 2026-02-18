@@ -1,11 +1,9 @@
 # Attempt-2
-Machine Learning Home Assignment 
-```text
-├── index.html          <-- Paste your HTML/JS code here
-└── my_model/           <-- Exported model folder
-    ├── model.json
-    ├── metadata.json
-    └── weights.bin
+
+Link to access my model
+
+You can test this model yourself using your own webcam. No setup required:
+👉 **[[Here]](https://teachablemachine.withgoogle.com/models/ZtpfRfZWP/)**
 ```
 Below is the screenshot of recognizing the pen:
 
