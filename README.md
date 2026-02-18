@@ -6,3 +6,4 @@ Machine Learning Home Assignment
     ├── model.json
     ├── metadata.json
     └── weights.bin
+![image](sc 1.png)
