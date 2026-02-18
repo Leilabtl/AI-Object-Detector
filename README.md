@@ -1,4 +1,4 @@
-# AI-Object-Detector
+# AI-Object-Detector by Leila Baratlou
 
 # Link to access my model
 👉 **[[Here]](https://teachablemachine.withgoogle.com/models/ZtpfRfZWP/)**
