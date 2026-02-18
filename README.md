@@ -5,5 +5,6 @@ Machine Learning Home Assignment
 └── my_model/           <-- Exported model folder
     ├── model.json
     ├── metadata.json
-    ![image](sc1.png)
     └── weights.bin
+    ```md
+    ![image](sc1.png)
