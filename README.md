@@ -6,5 +6,7 @@ Machine Learning Home Assignment
     ├── model.json
     ├── metadata.json
     └── weights.bin
-´´´
+```
+Below is the screenshot of recognizing the pen:
+
 ![image](SC1.png)
